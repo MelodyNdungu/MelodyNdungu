@@ -24,7 +24,7 @@ ReactJS · NextJS · TypeScript · Elixir · currently building things that feel
 
 ---
 
-// ![Melody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelodyNdungu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=e879f9&text_color=ffffff)
+![Melody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelodyNdungu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=e879f9&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyNdungu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&text_color=ffffff)
 
 </div>
